@@ -30,7 +30,7 @@ const About = () => {
        Email:gulzamanarain77@gmail.com
       </p>
       <div className="flex justify-center">
-        <a href={"/assests/CV/Professional CV Resume.jpg"}>
+        <a href={"/assests/CV/my professional cv.jpg"}>
         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
           View CV
         </button>
